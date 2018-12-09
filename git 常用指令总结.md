@@ -19,6 +19,10 @@
 
 4. 合并tmp分支和本地分支
 
-git merge tmp
+`git merge tmp`
+
+5. 删除tmp分支
+
+`git branch -d tmp`
 
 

@@ -69,23 +69,17 @@ abcdef|oooooooox|222
 
 `print phpinf();`
 
+或者四个空格缩进，包裹代码块
+	
+	var a = 1;
+	echo 1;
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-makdownpad
+## makdownpad key
 
 Soar360@live.com
 
