@@ -3,7 +3,9 @@
 
 
 
-## 本地合并origin代码并推到origin之上
+## 本地合并origin代码
+
+### fetch
 
 1. 查看远程地址
 
@@ -24,6 +26,12 @@
 5. 删除tmp分支
 
 `git branch -d tmp`
+
+### pull
+
+`git pull origin master:master`
+分支在当前分支 ： 后面可以省略
+`git pull origin master`
 
 ## 从本地仓库恢复工作空间误删除的文件
 
