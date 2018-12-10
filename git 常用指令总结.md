@@ -25,4 +25,12 @@
 
 `git branch -d tmp`
 
+## 从本地仓库恢复工作空间误删除的文件
+
+`git reset HEAD *`
+
+`git checkout *`
+
+
+
 
